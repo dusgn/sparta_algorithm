@@ -43,4 +43,5 @@ def get_min_city_chicken_distance(n, m, city_map):
 
 # 입력값의 범위가 작으면 for문을 많이 쓰든 조금 무식하게 풀어보는 가능성을 열어놓자
 # 출력
+print("hello github")
 print(get_min_city_chicken_distance(n, m, city_map))  # 5 가 반환되어야 합니다!
